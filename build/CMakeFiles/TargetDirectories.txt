@@ -1,0 +1,3 @@
+/mnt/c/Users/Yathin Vemula/Desktop/cgal_mesh_simplification/build/CMakeFiles/SurfaceMeshSimplification.dir
+/mnt/c/Users/Yathin Vemula/Desktop/cgal_mesh_simplification/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Yathin Vemula/Desktop/cgal_mesh_simplification/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SurfaceMeshSimplification.dir/main1.cpp.o -o SurfaceMeshSimplification  -lgmpxx -lmpfr -lgmp 
