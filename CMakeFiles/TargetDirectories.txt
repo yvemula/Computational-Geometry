@@ -1,0 +1,3 @@
+/mnt/c/Users/Yathin Vemula/Desktop/voxelmesh/CMakeFiles/voxel_to_mesh.dir
+/mnt/c/Users/Yathin Vemula/Desktop/voxelmesh/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Yathin Vemula/Desktop/voxelmesh/CMakeFiles/rebuild_cache.dir

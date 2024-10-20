@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/voxel_to_mesh.dir/voxelmesh.cpp.o -o voxel_to_mesh 
